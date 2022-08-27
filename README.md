@@ -7,4 +7,4 @@
 System funcionando em Windows / W10
 
 <a href="https://l2multverso.com.br/" alt="Nosso Site"  target="_blank" > LII MultVerso Nosso Site </a>
-<img align="right" alt="Programdor" height="352" width="626" src="https://github.com/terrygomes/System-Freya-w10/blob/Projeto-Emprego/freya.gif">
+<img align="right" alt="Programdor" height="327" width="412" src="https://github.com/terrygomes/System-Freya-w10/blob/Projeto-Emprego/freya.gif">
